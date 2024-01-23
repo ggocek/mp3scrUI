@@ -1,0 +1,96 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="mp3scrUI.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="MainWindowPlacement" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="InitialDirectory" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Users\gary\Desktop\podcasts\mp3scrUI</Value>
+    </Setting>
+    <Setting Name="DefaultIndex" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0001</Value>
+    </Setting>
+    <Setting Name="DefaultEnabled" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="DefaultUrl" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://acme.com/feed.htm</Value>
+    </Setting>
+    <Setting Name="DefaultUrlPrefix" Type="System.String" Scope="User">
+      <Value Profile="(Default)">=</Value>
+    </Setting>
+    <Setting Name="DefaultDestBase" Type="System.String" Scope="User">
+      <Value Profile="(Default)">acme.xml</Value>
+    </Setting>
+    <Setting Name="DefaultDestFolderName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\podcasts\</Value>
+    </Setting>
+    <Setting Name="DefaultExistingFeedFolder" Type="System.String" Scope="User">
+      <Value Profile="(Default)">https://www.gocek.org/podcasts/</Value>
+    </Setting>
+    <Setting Name="DefaultGuidPrefix" Type="System.String" Scope="User">
+      <Value Profile="(Default)">acme-</Value>
+    </Setting>
+    <Setting Name="DefaultMp3Filter" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="DefaultIndirectFilter" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="DefaultIndirect" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="DefaultChannelTitle" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Acme</Value>
+    </Setting>
+    <Setting Name="DefaultChannelNotes" Type="System.String" Scope="User">
+      <Value Profile="(Default)">No RSS feed offered by Acme.</Value>
+    </Setting>
+    <Setting Name="DefaultSortDescending" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="DefaultRetainOrphans" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="DefaultStripBaseName" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="DefaultPrependRelative" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="DefaultRefreshDays" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">7</Value>
+    </Setting>
+    <Setting Name="DefaultFtpPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ftp://ftp.gocek.net/wwwroot/podcasts/</Value>
+    </Setting>
+    <Setting Name="DefaultFtpUserName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">gocek.net</Value>
+    </Setting>
+    <Setting Name="DefaultFtpPassword" Type="System.String" Scope="User">
+      <Value Profile="(Default)">2010GoWeb-</Value>
+    </Setting>
+    <Setting Name="DefaultPermissionRevoked" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="DefaultAllowHttps" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="DefaultWraparound" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="DefaultMaxWebRequests" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">20</Value>
+    </Setting>
+    <Setting Name="DefaultMaintenanceA" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="DefaultMaintenanceB" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="DefaultMaintenanceC" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+  </Settings>
+</SettingsFile>

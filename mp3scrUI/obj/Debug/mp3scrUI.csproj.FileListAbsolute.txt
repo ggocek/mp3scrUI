@@ -1,0 +1,13 @@
+C:\Users\gary\source\repos\mp3scrUI\mp3scrUI\bin\Debug\mp3scrUI.exe.config
+C:\Users\gary\source\repos\mp3scrUI\mp3scrUI\bin\Debug\mp3scrUI.exe
+C:\Users\gary\source\repos\mp3scrUI\mp3scrUI\bin\Debug\mp3scrUI.pdb
+C:\Users\gary\source\repos\mp3scrUI\mp3scrUI\obj\Debug\mp3scrUI.csproj.AssemblyReference.cache
+C:\Users\gary\source\repos\mp3scrUI\mp3scrUI\obj\Debug\mp3scrUI.mp3scrUI.resources
+C:\Users\gary\source\repos\mp3scrUI\mp3scrUI\obj\Debug\mp3scrUI.Properties.Resources.resources
+C:\Users\gary\source\repos\mp3scrUI\mp3scrUI\obj\Debug\mp3scrUI.csproj.GenerateResource.cache
+C:\Users\gary\source\repos\mp3scrUI\mp3scrUI\obj\Debug\mp3scrUI.csproj.CoreCompileInputs.cache
+C:\Users\gary\source\repos\mp3scrUI\mp3scrUI\obj\Debug\mp3scrUI.exe
+C:\Users\gary\source\repos\mp3scrUI\mp3scrUI\obj\Debug\mp3scrUI.pdb
+C:\Users\gary\source\repos\mp3ScrUI\mp3scrUI\bin\Debug\gpl.txt
+C:\Users\gary\source\repos\mp3ScrUI\mp3scrUI\bin\Debug\license.txt
+C:\Users\gary\source\repos\mp3ScrUI\mp3scrUI\bin\Debug\release-notes.txt
